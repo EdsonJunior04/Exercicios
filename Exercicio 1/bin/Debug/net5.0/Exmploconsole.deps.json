@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exmploconsole/1.0.0": {
+        "runtime": {
+          "Exmploconsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exmploconsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

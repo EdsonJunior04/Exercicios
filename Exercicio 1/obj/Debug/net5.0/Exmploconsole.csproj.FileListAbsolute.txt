@@ -1,0 +1,16 @@
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.exe
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.deps.json
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.runtimeconfig.json
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.runtimeconfig.dev.json
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.dll
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\ref\Exmploconsole.dll
+E:\SENAI\Back-end\Exmploconsole\bin\Debug\net5.0\Exmploconsole.pdb
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.csprojAssemblyReference.cache
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.AssemblyInfoInputs.cache
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.AssemblyInfo.cs
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.csproj.CoreCompileInputs.cache
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.dll
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\ref\Exmploconsole.dll
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.pdb
+E:\SENAI\Back-end\Exmploconsole\obj\Debug\net5.0\Exmploconsole.genruntimeconfig.cache
